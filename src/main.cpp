@@ -1,7 +1,8 @@
-#include <stdio.h>
-#include <cpp_lib_personal/main.hpp>
+#include <iostream>
+#include <glok/main.hpp>
+using namespace std;
 
 int main(){
-  printf("hello world\n");
+  cout << "Hello" << endl;
   return 0;
 }
